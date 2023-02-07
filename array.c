@@ -1,5 +1,5 @@
 // array -> collection of same datatype variable
-// datatype name[size]
+
 // size -> index start with 0
 // name[5] -> name[0], name[1], 2, 3, 4
 // two types of array -> one dimensional & two dimensional
